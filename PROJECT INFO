@@ -1,0 +1,31 @@
+# zomato-data-analysis
+Zomato Restaurant Data Analysis using Excel, SQL, Python, and Power BI
+# Zomato Data Analysis Project
+
+## Project Overview
+This project analyzes Zomato restaurant data to identify trends in ratings, restaurant categories, online ordering behavior, and customer popularity.
+
+## Tools Used
+- Excel for data cleaning
+- MySQL for SQL analysis
+- Python for exploratory data analysis
+- Power BI for interactive dashboard visualization
+
+## Key Insights
+- Dining restaurants dominate the platform
+- Restaurants with online ordering tend to have slightly higher ratings
+- Most restaurants fall between 3.5 and 4.2 rating
+
+## Dashboard
+Power BI dashboard shows:
+- Rating distribution
+- Restaurant type distribution
+- Online order vs rating
+- Most popular restaurants by votes
+
+## Project Structure
+data → dataset  
+sql → SQL queries used for analysis  
+python → Python analysis scripts  
+dashboard → Power BI dashboard  
+images → dashboard screenshots
