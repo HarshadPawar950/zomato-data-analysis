@@ -1,0 +1,149 @@
+name,online_order,book_table,votes,"approx_cost(for two people)",listed_in(type),RATE
+Jalsa,Yes,Yes,775,800,Buffet,4.1
+"Spice Elephant",Yes,No,787,800,Buffet,4.1
+"San Churro Cafe",Yes,No,918,800,Buffet,3.8
+"Addhuri Udupi Bhojana",No,No,88,300,Buffet,3.7
+"Grand Village",No,No,166,600,Buffet,3.8
+"Timepass Dinner",Yes,No,286,600,Buffet,3.8
+"Rosewood International Hotel - Bar & Restaurant",No,No,8,800,Buffet,3.6
+Onesta,Yes,Yes,2556,600,Cafes,4.6
+"Penthouse Cafe",Yes,No,324,700,other,4
+Smacznego,Yes,No,504,550,Cafes,4.2
+"Village CafÃ©",Yes,No,402,500,Cafes,4.1
+"Cafe Shuffle",Yes,Yes,150,600,Cafes,4.2
+"The Coffee Shack",Yes,Yes,164,500,Cafes,4.2
+Caf-Eleven,No,No,424,450,Cafes,4
+"Cafe Vivacity",Yes,No,918,800,Cafes,3.8
+Catch-up-ino,Yes,No,90,650,Cafes,3.8
+"Kirthi's Biryani",Yes,No,133,800,Cafes,3.9
+"T3H Cafe",Yes,No,144,700,Cafes,3.8
+"360 Atoms Restaurant And Cafe",No,No,93,300,Cafes,3.9
+"The Vintage Cafe",Yes,No,13,400,Cafes,3.1
+"Woodee Pizza",Yes,No,62,400,Cafes,3
+"Cafe Coffee Day",Yes,No,180,500,Cafes,3.7
+"My Tea House",No,No,28,900,Cafes,3.6
+"Hide Out Cafe",Yes,No,62,600,Cafes,3.6
+"CAFE NOVA",No,No,31,300,Cafes,3.7
+"Coffee Tindi",No,No,11,600,Cafes,3.2
+"Sea Green Cafe",Yes,No,75,200,Cafes,3.8
+Cuppa,No,No,4,500,Cafes,3.3
+"Srinathji's Cafe",No,No,23,550,Cafes,3.3
+Redberrys,No,No,148,550,Cafes,3.8
+Foodiction,Yes,No,219,600,Cafes,4
+"Sweet Truth",Yes,No,506,500,other,2.8
+"Ovenstory Pizza",Yes,No,35,500,Dining,3.9
+Faasos,Yes,No,172,750,Dining,3.9
+"Behrouz Biryani",Yes,No,415,500,other,4.2
+"Fast And Fresh",Yes,No,230,650,Dining,3.9
+"Szechuan Dragon",Yes,No,91,400,Dining,2.8
+"Empire Restaurant",Yes,No,1647,600,Dining,4.2
+"Maruthi Davangere Benne Dosa",Yes,No,4884,750,other,4.4
+Chaatimes,Yes,No,17,150,Dining,4
+"Havyaka Mess",Yes,No,133,200,Dining,3.8
+McDonald's,No,No,28,300,Dining,3.9
+"Domino's Pizza",Yes,No,286,500,Dining,3.9
+Hotboxit,Yes,No,540,800,Dining,3.9
+"Kitchen Garden",Yes,Yes,2556,600,other,4.6
+Recipe,No,No,36,400,Dining,3.8
+"Beijing Bites",Yes,No,244,300,Dining,3.6
+"Tasty Bytes",Yes,No,804,450,Dining,4
+Petoo,Yes,No,679,850,Dining,3.7
+"Shree Cool Point",Yes,No,245,300,Dining,3.1
+"Corner House Ice Cream",No,No,21,450,Dining,3.7
+"Biryanis And More",Yes,No,28,150,Dining,4.1
+"Roving Feast",No,No,345,400,Dining,4.3
+FreshMenu,Yes,No,618,750,Dining,4
+"Banashankari Donne Biriyani",No,No,1047,450,Dining,4
+Wamama,Yes,No,627,450,Dining,3.9
+"Five Star Chicken",Yes,No,104,300,Dining,3.8
+"XO Belgian Waffle",Yes,Yes,354,800,other,4.2
+"Peppy Peppers",No,No,55,200,Dining,3.6
+"Goa 0 Km",Yes,No,17,400,Dining,3.7
+"Chinese Kitchen",No,No,244,800,other,4.2
+"Jeet Restaurant",Yes,Yes,163,800,Dining,3.6
+"Cake of the Day",Yes,No,58,150,Dining,3.8
+"Kabab Magic",No,Yes,808,850,Dining,4
+"Namma Brahmin's Idli",No,No,78,150,Dining,3.7
+"Gustoes Beer House",Yes,No,1720,400,Dining,4.1
+"Sugar Rush",Yes,No,34,100,Dining,3.6
+"Burger King",No,No,868,700,Dining,4.1
+"The Good Bowl",No,No,39,300,Dining,3.8
+"The Biryani Cafe",Yes,No,71,600,Dining,3.2
+"Spicy Tandoor",Yes,No,6,500,Dining,3.6
+"LSD Cafe",No,No,520,300,Dining,4.1
+"Rolls On Wheels",No,No,0,150,Dining,4.1
+"Om Sri Vinayaka Chats",No,No,84,700,other,2.9
+"Sri Guru Kottureshwara Davangere Benne Dosa",No,No,299,300,Dining,3.6
+"Devanna Dum Biriyani Centre",No,No,0,500,Dining,3.6
+Kolbeh,Yes,No,558,150,Dining,4.1
+"Upahar Sagar",Yes,No,28,300,Dining,3.6
+"Kadalu Sea Food Restaurant",No,No,22,500,Dining,3.7
+"Frozen Bottle",No,No,39,350,Dining,3.8
+"Parimala Sweets",Yes,No,153,500,Dining,3.8
+"Vaishali Deluxe",Yes,No,146,400,Dining,4.2
+"Chill Out",No,No,14,200,Dining,3.5
+"The Big O Bakes",No,No,42,700,Dining,3.8
+"Meghana Foods",No,No,0,100,Dining,3.8
+"Krishna Sagar",No,No,66,300,Dining,4
+"Dessert Rose",Yes,No,4401,600,Dining,4.4
+"Chickpet Donne Biryani House",No,No,31,200,Dining,3.5
+"Me And My Cake",No,No,7,500,Dining,3.5
+Sunsadm,No,No,21,250,Dining,3.7
+"Annapooraneshwari Mess",No,No,0,500,Dining,3.7
+"Thanco's Natural Ice Creams",No,No,0,400,Dining,3.7
+"Nandhini Deluxe",No,No,0,200,Dining,3.7
+"Vi Ra's Bar and Restaurant",No,No,9,300,Dining,3.2
+Kaggis,No,No,283,600,Dining,2.6
+"Ayda Persian Kitchen",No,No,62,800,Dining,3.3
+"Chatar Patar",No,No,64,250,Dining,3.8
+"Polar Bear",No,No,39,950,Dining,3.7
+"Kidambi's Kitchen",No,No,65,300,Dining,3.7
+"Mane Thindi",Yes,No,71,400,Dining,3.8
+"Kotian Karavali Restaurant",No,No,52,300,Dining,3.5
+"Floured-Baked With Love",No,No,130,200,Dining,3.7
+"Cakes & Slices",No,No,10,300,Dining,3.5
+"Spice 9",No,No,45,400,Dining,3.8
+"Coffee Shopee",No,No,11,600,Dining,3.2
+"Naveen Kabab & Biriyani Mane",No,No,13,300,Dining,3.5
+"Katriguppe Donne Biryani",No,No,8,300,Dining,3.4
+"Hari Super Sandwich",No,No,0,250,Dining,3.4
+"Atithi Point Ande Ka Funda",No,No,9,300,Dining,3.2
+"Just Bake",No,No,4,300,Dining,3.2
+"Dharwad Line Bazaar Mishra Pedha",No,No,0,200,Dining,3.2
+"Cake Bite",No,No,29,150,Dining,3.1
+"Aarush's Food Plaza",No,No,8,400,Dining,3.4
+"Wood Stove",No,No,0,150,Dining,3.4
+"Kulfi & More",No,No,0,300,Dining,3.4
+"Kannadigas Karavali",No,No,0,200,Dining,3.4
+"K27 - The Pub",No,No,0,150,Dining,3.4
+"Bengaluru Coffee House",No,No,0,150,Dining,3.4
+"New Mangalore Lunch Home",No,No,0,250,Dining,3.4
+"Coffee Bytes",No,No,30,900,Dining,3.1
+"Parjanya Chat Zone",Yes,No,201,300,Dining,4.1
+"Kwality Wall's Swirl's Happiness Station",No,No,7,200,Dining,3.3
+"Soms Kitchen & Bakes",No,No,6,100,Dining,3.1
+"Banashankari Nati Style",No,No,17,200,Dining,3.3
+"Ruchi Maayaka",No,No,25,200,Dining,2.9
+"Mohitesh Hut Roll",No,No,0,400,Dining,2.9
+"Sri Basaveshwar Jolada Rotti Oota",No,No,0,350,Dining,2.9
+"Roll Magic Fast Food",No,No,8,100,Dining,3.3
+"Foodlieious Multi Cuisine",No,No,0,150,Dining,3.3
+"Thanishka Nati And Karavali Style",No,No,0,150,Dining,3.4
+"Swathi Cool Point",No,No,0,200,Dining,3.4
+"Kaumudis Juoice",No,No,0,100,Dining,3.4
+"Amma - Manae",No,No,0,400,Dining,3.1
+"Sri Sai Tiffannies",No,No,0,200,Dining,4.1
+"Hotel Andhra Speices",No,No,0,150,Dining,3.3
+"Sri Murari Family Restaurant",No,No,0,400,Dining,3.1
+"Aramane Donne Biriyani",No,No,0,150,Dining,3.3
+Darkolates,No,No,0,250,Dining,2.9
+"Swaada Healthy Kitchen",No,No,0,250,Dining,2.9
+"Gawdaru Mane Beriyani",No,No,0,150,Dining,2.9
+"Melting Melodies",No,No,0,200,Dining,3.3
+"New Indraprasta",No,No,0,350,Dining,3.3
+"Anna Kuteera",No,No,0,300,Dining,3.3
+Darbar,No,No,0,100,Dining,3.3
+Vijayalakshmi,No,No,0,150,Dining,3.3
+,Yes,No,771,450,Dining,4
+,No,No,98,800,Dining,3
+,Yes,No,47,200,Dining,3.9
